@@ -1,7 +1,7 @@
 ## Jogo da Forca Online - Levantamento de Requisitos
 
 ### Propósito da Atividade
-Este repositório foi criado para documentar os requisitos funcionais e não funcionais de um jogo da forca online. A atividade envolve a definição dos requisitos, a gestão do documento com Git e a disponibilização no GitHub.
+Este repositório foi criado para documentar os requisitos funcionais e não funcionais de um jogo da forca online. A atividade envolve a estrutura do repositório, visualização de documentos, o versionamento semântico e o link para o repositório.
 
 ### Estrutura do Repositório
 - `Requisitos_Forca.md` - Documento contendo os requisitos do jogo da forca online.
